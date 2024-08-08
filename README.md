@@ -3,7 +3,9 @@
 🚀 My expertise lies in:
 
 Frontend: React, Next.js, Tailwind CSS
+
 Backend: Node.js, Express, RESTful APIs
+
 Database: MongoDB, PostgreSQL, Appwrite, MySQL
 
 💡 I'm always exploring new technologies and am particularly interested in AI-driven web solutions. My goal is to create seamless, user-friendly experiences that make a difference.
