@@ -2,23 +2,23 @@
 
 I'm Nilabjo, a full stack developer specializing in **Next.js**.
 
-##  What I'm Working On
+###  What I'm Working On
 
 - **AppliTrack**: A job application tracker to help you stay organized and ahead in your job search.
 - **MysticaAI**: An AI resume builder that tailors CVs based on the job description.
 
-##  My Tech Stack
+###  My Tech Stack
 
 - **Frontend**: Next.js, React, TypeScript, Zustand, Javascript
 - **Backend**: Next.js, Node.js, MongoDB, Mongoose, NextAuth.js, Express
 - **UI/UX**: ShadCN UI, Figma
 - **Tools**: Git, VS Code, Vercel
 
-##  What I'm Learning
+###  What I'm Learning
 
 - Integrating AI features into web applications
 
-##  Let's Connect
+###  Let's Connect
 
 - **Portfolio**: [nilabjo.com](https://nilabjo.com)
 - **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/nilabjodey)
