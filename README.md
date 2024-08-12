@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Your Name], a full stack developer specializing in **Next.js** with a passion for crafting intuitive and efficient web applications.
+I'm Nilabjo, a full stack developer specializing in **Next.js**.
 
 ## 🚀 What I'm Working On
 
