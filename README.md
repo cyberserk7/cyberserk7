@@ -1,16 +1,33 @@
-👋 Hi, I'm Nilabjo, a full-stack developer. With a deep understanding of both front-end and back-end technologies, I love turning complex problems into simple, elegant solutions.
+# Hi there! 👋
 
-🚀 My expertise lies in:
+I'm [Your Name], a full stack developer specializing in **Next.js** with a passion for crafting intuitive and efficient web applications.
 
-Frontend: React, Next.js, Tailwind CSS
+## 🚀 What I'm Working On
 
-Backend: Node.js, Express, RESTful APIs
+- **AppliTrack**: A job application tracker to help you stay organized and ahead in your job search.
+- **MysticaAI**: An AI resume builder that tailors CVs based on the job description.
 
-Database: MongoDB, PostgreSQL, Appwrite, MySQL
+## 🛠️ My Tech Stack
 
-💡 I'm always exploring new technologies and am particularly interested in AI-driven web solutions. My goal is to create seamless, user-friendly experiences that make a difference.
+- **Frontend**: Next.js, React, TypeScript, Zustand, Javascript
+- **Backend**: Next.js, Node.js, MongoDB, Mongoose, NextAuth.js, Express
+- **UI/UX**: ShadCN UI, Figma
+- **Tools**: Git, VS Code, Vercel
 
-📫 Let's connect and collaborate on something amazing!
+## 🌱 What I'm Learning
+
+- Integrating AI features into web applications
+
+## 💬 Let's Connect
+
+- **Portfolio**: [nilabjo.com](https://nilabjo.com)
+- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/nilabjodey)
+
+Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate on something awesome.
+
+---
+
+⭐️ [Follow me](https://github.com/cyberserk7) for more exciting projects and updates!
 
 <!---
 cyberserk7/cyberserk7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
