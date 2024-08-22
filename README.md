@@ -1,6 +1,6 @@
 
 
-### Nilabjo - Full Stack Developer Specializing in Next.js
+### Hey! I am a Full Stack Developer Specializing in Next.js
 
 #### Current Projects
 
