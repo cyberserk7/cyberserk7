@@ -1,5 +1,5 @@
 
-# 👋 Hey There! I'm Nilabjo De
+# 👋 Hey There! I'm Nilabjo Dey
 
 ### 🚀 Full Stack Developer | AI Enthusiast | Next.js Specialist
 
@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm passionate about building cutting-edge web application
 
 ### 🌟 Current Projects
 
-- **[AppliTrack](https://github.com/cyberserk7/AppliTrack)**  
+- **[AppliTrack](https://github.com/cyberserk7/applitrack)**  
   A smart job application tracker that helps you organize your job search, track interviews, and manage documents—all in one place.
 
 - **[MysticaAI](https://github.com/cyberserk7/MysticaAI)**  
