@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm passionate about building cutting-edge web application
 - **[AppliTrack](https://github.com/cyberserk7/applitrack)**  
   A smart job application tracker that helps you organize your job search, track interviews, and manage documents—all in one place.
 
-- **[MysticaAI](https://github.com/cyberserk7/mystica-resume-builder)**  
+- **BuildMyResume**  
   An AI-powered resume builder that tailors your CV to specific job descriptions, maximizing your chances of success.
 
 ### 🛠️ Tech Stack
