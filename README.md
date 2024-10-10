@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm passionate about building cutting-edge web application
   A smart job application tracker that helps you organize your job search, track interviews, and manage documents—all in one place.
 
 - **BuildMyResume**  
-  An AI-powered resume builder that tailors your CV to specific job descriptions, maximizing your chances of success.
+  A full fledged online resume builder with ready to use templates, AI features and various utilities to make a standout resume that helps you land interviews faster.
 
 ### 🛠️ Tech Stack
 
