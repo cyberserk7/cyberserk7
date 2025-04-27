@@ -1,5 +1,5 @@
 
-# 👋 Hey There! I'm Nilabjo Dey
+Hey There! I'm Nilabjo Dey
 
 ### 🚀 Full Stack Developer | AI Enthusiast | Next.js Specialist
 
